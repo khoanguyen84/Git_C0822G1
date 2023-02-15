@@ -6,3 +6,8 @@ h1 {
 * {
     color: red;
 }
+
+.thien{
+    font-size: 14px;
+    border: solid 1px black;
+}
