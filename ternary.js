@@ -1,3 +1,4 @@
+let aveScore = 10;
 // Ternary Operator (toán tử ? :)
 // gender = true => Mr
 // gender = false => 
