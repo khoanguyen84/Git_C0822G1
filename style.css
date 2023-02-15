@@ -6,3 +6,8 @@ h1 {
 * {
     color: red;
 }
+
+.khoa{
+    box-sizing: border-box;
+    display: flex;
+}
