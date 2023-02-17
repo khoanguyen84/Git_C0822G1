@@ -17,3 +17,8 @@ h1 {
     box-sizing: border-box;
     display: flex;
 }
+
+p{
+    font-style: italic;
+    color: gray;
+}
